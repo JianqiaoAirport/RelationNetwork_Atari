@@ -8,6 +8,8 @@ numpy: 1.16
 
 tensorflow: 1.12.0
 
+opencv-python: 4.1.0.25
+
 gym: 0.12.1
 
-opencv-python: 4.1.0.25
+stable-baselines: 2.8.0
