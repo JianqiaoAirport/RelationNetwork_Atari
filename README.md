@@ -1,4 +1,4 @@
-# RelationNetwork_Atari
+# RelationNetwork for Atari
 Implementation of A Sample Efficient Model-Free Deep Reinforcement Learning Approach to Atari Games
 
 # requirements
